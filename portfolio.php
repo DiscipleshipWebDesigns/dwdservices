@@ -9,11 +9,18 @@
                 <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="1"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="3"></li>
               </ol>
 
               <!-- Wrapper for slides -->
               <div class="carousel-inner" role="listbox">
                 <div class="item active">
+                  <img src="images/grahamcarsandstars.png" alt="...">
+                  <div class="carousel-caption">
+
+                  </div>
+                </div>
+                <div class="item">
                   <img src="images/jlmsold.png" alt="...">
                   <div class="carousel-caption">
 
@@ -45,6 +52,22 @@
         </div>
 <br>
         <div class="row">
+            <div class="col-lg-5 ">
+                <div class="thumbnail ">
+                    <a href="https://www.grahamcarsandstars.org"><img src="images/carsstars-mobile.png"></a>
+                </div>
+            </div>
+            <div class="col-lg-7 ">
+                <div class="thumbnail ">
+                    <a href="https://www.grahamcarsandstars.org"><img src="images/grahamcarsandstars.png"></a>
+                    
+                </div>
+            </div>
+            <div class="col-lg-7">
+                <div class="thumbnail ">
+                    <a href="https://www.grahamcarsandstars.org"><img src="images/carsstars-reg.png"></a>
+                </div>
+            </div>
             <div class="col-lg-5 ">
                 <div class="thumbnail ">
                     <a href="http://www.jlmsold.com"><img src="images/jlmsold-mobile.png"></a>

@@ -1,0 +1,221 @@
+<versions>
+	<version id="eng-AMP">
+		<id>eng-AMP</id>
+		<name>Amplified Bible</name>
+		<lang>eng-US</lang>
+		<lang_code>ISO 639-3</lang_code>
+		<contact_url>http://www.lockman.org</contact_url>
+		<audio>NONE</audio>
+		<copyright>
+		<![CDATA[
+		1954, 1958, 1962, 1964, 1965, 1987 by The Lockman Foundation
+		]]>
+		</copyright>
+		<info>
+		<![CDATA[
+		<h3>About this Title</h3> <p>The Amplified Bible was the first Bible project of The Lockman Foundation. It attempts to take both word meaning and context into account in order to accurately translate the original text from one language into another. The Amplified Bible does this through the use of explanatory alternate readings and amplifications to assist the reader in understanding what Scripture really says. Multiple English word equivalents to each key Hebrew and Greek word clarify and amplify meanings that may otherwise have been concealed by the traditional translation method.</p> <h3>Copyright Information</h3> <p>All rights reserved. For Permission To Quote information visit <a href="http://www.lockman.org/" target="_blank">www.lockman.org</a>.</p> <p>The "Amplified" trademark is registered in the United States Patent and Trademark Office by The Lockman Foundation. Use of this trademark requires the permission of The Lockman Foundation.</p>
+		]]>
+		</info>
+		<lang_name>English (US)</lang_name>
+		<lang_name_eng>English</lang_name_eng>
+		<abbreviation>AMP</abbreviation>
+		<updated_at>2013-05-22T10:39:36-05:00</updated_at>
+	</version>
+	<version id="eng-CEV">
+		<id>eng-CEV</id>
+		<name>Contemporary English Version (US Version)</name>
+		<lang>eng-US</lang>
+		<lang_code>ISO 639-3</lang_code>
+		<contact_url>http://www.americanbible.org/</contact_url>
+		<audio>NONE</audio>
+		<copyright>
+		<![CDATA[
+		<p>Contemporary English Version® © 1995 American Bible Society. All rights reserved.</p> <p>Bible text from the Contemporary English Version (CEV) is not to be reproduced in copies or otherwise by any means except as permitted in writing by American Bible Society, 1865 Broadway, New York, NY 10023 (<a href="http://www.americanbible.org/">www.americanbible.org</a>).</p>
+		]]>
+		</copyright>
+		<info>
+		<![CDATA[
+		<h1>Contemporary English Version (US Version)</h1> <p>Uncompromising simplicity marked the American Bible Society's translation of the Contemporary English Version that was first published in 1995. The text is easily read by grade schoolers, second language readers, and those who prefer the more contemporized form. The CEV is not a paraphrase; it is an accurate and faithful translation of the original manuscripts.</p> <p>After almost 200 years of ongoing ministry, American Bible Society invites people to experience the life-changing message of the Bible. Offering an increasing range of innovative ministries to address core life questions and struggles, the Bible Society partners with Christian churches and national Bible societies to share God’s Word both in the United States and around the globe.</p> <p>For more information, visit <a href="http://www.americanbible.org/">www.americanbible.org</a>.</p> <p>To purchase a copy of this translation, visit <a href="http://www.bibles.com/">www.bibles.com</a>.</p>
+		]]>
+		</info>
+		<lang_name>English (US)</lang_name>
+		<lang_name_eng>English</lang_name_eng>
+		<abbreviation>CEV</abbreviation>
+		<updated_at>2013-10-22T15:29:11-05:00</updated_at>
+	</version>
+	<version id="eng-CEVD">
+		<id>eng-CEVD</id>
+		<name>Contemporary English Version (US Version)</name>
+		<lang>eng-US</lang>
+		<lang_code>ISO 639-3</lang_code>
+		<contact_url>http://www.americanbible.org/</contact_url>
+		<audio>NONE</audio>
+		<copyright>
+		<![CDATA[
+		<p>Contemporary English Version, Second Edition (CEV&#174;) &#169; 2006 American Bible Society. All rights reserved.</p>
+		]]>
+		</copyright>
+		<info>
+		<![CDATA[
+		<h1>About this Title</h1> <p>Uncompromising simplicity marked the American Bible Society's translation of the Contemporary English Version Bible that was first published in 1995. The text is easily read by grade schoolers, second language readers, and those who prefer the more contemporized form. The CEV is not a paraphrase. It is an accurate and faithful translation of the original manuscripts.</p> <h2>Copyright Information</h2> <p>Scriptures marked as "(CEV)" are taken from the Contemporary English Version Copyright &#169; 1995 by American Bible Society. Used by permission.</p> <p>The text of the Contemporary English Version (CEV) appearing on or deriving from this or any other web page is for personal use only. The CEV text may be quoted in any form (written, visual, electronic or audio) up to &amp; inclusive of five hundred (500) verses without written permission, providing the verses quoted do not amount to fifty percent (50%) of a complete book of the Bible nor do the verses account for twenty-five percent (25%) or more of the total text of the work in which they are quoted.</p> <p>This permission is contingent upon an appropriate copyright acknowledgement. Any use of the CEV shall be governed by above policy and shall be solely restricted to noncommercial, personal study purposes.</p> <p>For any other use, please address your inquiries to the American Bible Society, 1865 Broadway, New York, NY 10023, Attn Permissions Dept;</p> <p>CEV Home: http: <a href="http://www.americanbible.org/">www.americanbible.org</a> </p>
+		]]>
+		</info>
+		<lang_name>English (US)</lang_name>
+		<lang_name_eng>English</lang_name_eng>
+		<abbreviation>CEVD</abbreviation>
+		<updated_at>2013-10-22T09:02:45-05:00</updated_at>
+	</version>
+	<version id="eng-ESV">
+		<id>eng-ESV</id>
+		<name>English Standard Version</name>
+		<lang>eng-US</lang>
+		<lang_code>ISO 639-3</lang_code>
+		<contact_url>http://www.crossway.org</contact_url>
+		<audio>NONE</audio>
+		<copyright>
+		<![CDATA[
+		<p>Scripture quotations marked (ESV) are from The Holy Bible, English Standard Version®, copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.</p>
+		]]>
+		</copyright>
+		<info>
+		<![CDATA[
+		<h1>English Standard Version</h1> <h3>Version Information</h3> <p>Published in 2001, the English Standard Version stands firmly in the King James tradition and is based directly on the 1971 Revised Standard Version (RSV).</p>
+		]]>
+		</info>
+		<lang_name>English (US)</lang_name>
+		<lang_name_eng>English</lang_name_eng>
+		<abbreviation>ESV</abbreviation>
+		<updated_at>2015-06-08T15:00:26-05:00</updated_at>
+	</version>
+	<version id="eng-GNTD">
+		<id>eng-GNTD</id>
+		<name>Good News Translation (US Version)</name>
+		<lang>eng-US</lang>
+		<lang_code>ISO 639-3</lang_code>
+		<contact_url>http://www.americanbible.org/</contact_url>
+		<audio>NT</audio>
+		<copyright>
+		<![CDATA[
+		<p>Good News Translation (Today&#8217;s English Version, Second Edition) &#169; 1992 American Bible Society. All rights reserved.</p>
+		]]>
+		</copyright>
+		<info>
+		<![CDATA[
+		<p>Good News Translation with Deuterocanonicals/Apocrypha. Scripture taken from the Good News Translation (r) (Today's English Version, Second Edition). Copyright (c) 1992 American Bible Society. Used by permission.</p>
+		]]>
+		</info>
+		<lang_name>English (US)</lang_name>
+		<lang_name_eng>English</lang_name_eng>
+		<abbreviation>GNTD</abbreviation>
+		<updated_at>2013-08-06T12:38:47-05:00</updated_at>
+	</version>
+		<version id="eng-KJVA">
+		<id>eng-KJVA</id>
+		<name>
+		King James Version with Apocrypha, American Edition
+		</name>
+		<lang>eng-US</lang>
+		<lang_code>ISO 639-3</lang_code>
+		<contact_url>http://www.americanbible.org/</contact_url>
+		<audio>NONE</audio>
+		<copyright>
+		<![CDATA[
+		<p>King James Version 1611, spelling, punctuation and text formatting modernized by ABS in 1962; typesetting &#169; 2010 American Bible Society.</p>
+		]]>
+		</copyright>
+		<info>
+		<![CDATA[
+		<h1>King James Version, American Edition</h1> <p>King James Version 1611, spelling, punctuation and text formatting modernized by ABS in 1962; typesetting &#169; 2010 American Bible Society.</p> <p>If you are interested in obtaining a printed copy, please visit the American Bible Society at <a href="http://www.bibles.com/">www.bibles.com</a>.</p>
+		]]>
+		</info>
+		<lang_name>English (US)</lang_name>
+		<lang_name_eng>English</lang_name_eng>
+		<abbreviation>KJVA</abbreviation>
+		<updated_at>2014-02-12T13:20:01-06:00</updated_at>
+	</version>
+	<version id="eng-KJV">
+		<id>eng-KJV</id>
+		<name>King James Version</name>
+		<lang>eng-GB</lang>
+		<lang_code>ISO 639-3</lang_code>
+		<contact_url>http://www.biblesociety.org.uk/</contact_url>
+		<audio>NONE</audio>
+		<copyright>
+		<![CDATA[
+		<p>King James Version 1611 (Authorized Version). Copyright status: UK English with BFBS additions © 2011 British and Foreign Bible Society; Crown Copyright in UK</p>
+		]]>
+		</copyright>
+		<info>
+		<![CDATA[ ]]>
+		</info>
+		<lang_name>English (British)</lang_name>
+		<lang_name_eng>English</lang_name_eng>
+		<abbreviation>KJV</abbreviation>
+		<updated_at>2013-10-22T19:12:08-05:00</updated_at>
+	</version>
+	<version id="eng-MSG">
+		<id>eng-MSG</id>
+		<name>The Message</name>
+		<lang>eng-US</lang>
+		<lang_code>ISO 639-3</lang_code>
+		<contact_url>http://www.messagebible.com/</contact_url>
+		<audio>NONE</audio>
+		<copyright>
+		<![CDATA[ ]]>
+		</copyright>
+		<info>
+		<![CDATA[
+		<p>Why was <em>The Message</em> written? The best answer to that question comes from Eugene Peterson himself: "While I was teaching a class on Galatians, I began to realize that the adults in my class weren't feeling the vitality and directness that I sensed as I read and studied the New Testament in its original Greek. Writing straight from the original text, I began to attempt to bring into English the rhythms and idioms of the original language. I knew that the early readers of the New Testament were captured and engaged by these writings and I wanted my congregation to be impacted in the same way. I hoped to bring the New Testament to life for two different types of people: those who hadn't read the Bible because it seemed too distant and irrelevant and those who had read the Bible so much that it had become 'old hat.'" </p> <p>Peterson's parishioners simply weren't connecting with the real meaning of the words and the relevance of the New Testament for their own lives. So he began to bring into English the rhythms and idioms of the original ancient Greek&#151;writing straight out of the Greek text without looking at other English translations. As he shared his version of Galatians with them, they quit stirring their coffee and started catching Paul's passion and excitement as he wrote to a group of Christians whom he was guiding in the ways of Jesus Christ. For more than two years, Peterson devoted all his efforts to <em>The Message New Testament</em>. His primary goal was to capture the tone of the text and the original conversational feel of the Greek, in contemporary English.</p> <p>Language changes. New words are formed. Old words take on new meaning. There is a need in every generation to keep the language of the gospel message current, fresh, and understandable&#151;the way it was for its very first readers. That is what <em>The Message</em> seeks to accomplish for contemporary readers. It is a version for our time&#151;designed to be read by contemporary people in the same way as the original <em> koine</em> Greek and Hebrew manuscripts were savored by people thousands of years ago. </p> <p>That's why NavPress felt the time was right for a new version. When we hear something over and over again in the same way, we can become so familiar with it that the text loses its impact. The Message strives to help readers hear the living Word of God&#151;the Bible&#151;in a way that engages and intrigues us right where we are. <br><br> <p>Some people like to read the Bible in Elizabethan English. Others want to read a version that gives a close word-for-word correspondence between the original languages and English. Eugene Peterson recognized that the original sentence structure is very different from that of contemporary English. He decided to strive for the spirit of the original manuscripts&#151;to express the rhythm of the voices, the flavor of the idiomatic expressions, the subtle connotations of meaning that are often lost in English translations.</p> <p>The goal of <em>The Message</em> is to engage people in the reading process and help them understand what they read. This is not a study Bible, but rather "a reading Bible." The verse numbers, which are not in the original documents, have been left out of the print version to facilitate easy and enjoyable reading. The original books of the Bible were not written in formal language. <em>The Message</em> tries to recapture the Word in the words we use today. </p>
+		]]>
+		</info>
+		<lang_name>English (US)</lang_name>
+		<lang_name_eng>English</lang_name_eng>
+		<abbreviation>MSG</abbreviation>
+		<updated_at>2013-05-30T02:49:44-05:00</updated_at>
+	</version>
+	<version id="eng-NASB">
+		<id>eng-NASB</id>
+		<name>New American Standard Bible</name>
+		<lang>eng-US</lang>
+		<lang_code>ISO 639-3</lang_code>
+		<contact_url>http://www.lockman.org</contact_url>
+		<audio>NONE</audio>
+		<copyright>
+		<![CDATA[
+		New American Standard Bible, Copyright 1960,1962,1963,1968,1971,1972,1973,1975,1977,1995 by The Lockman Foundation. Used by permission.
+		]]>
+		</copyright>
+		<info>
+		<![CDATA[
+		<h1>New American Standard Bible&#xAE;</h1> <h2>SCRIPTURE PROMISE</h2> <p></p> <p> <em>"The grass withers, the flower fades,</em> </p> <p> <em>but the word of our God stands forever."</em> </p> <p>ISAIAH 40:8</p> <p></p> <p>The New American Standard Bible&#xAE; has been produced with the conviction that the words of Scripture as originally penned in the Hebrew, Aramaic, and Greek were inspired by God. Since they are the eternal Word of God, the Holy Scriptures speak with fresh power to each generation, to give wisdom that leads to salvation, that men may serve Christ to the glory of God.</p> <p>The purpose of the Editorial Board in making this translation was to adhere as closely as possible to the original languages of the Holy Scriptures, and to make the translation in a fluent and readable style according to current English usage.</p> <p></p> <p></p> <h2>THE FOURFOLD AIM OF THE LOCKMAN FOUNDATION</h2> <p></p> <p>1. These publications shall be true to the original Hebrew, Aramaic, and Greek.</p> <p>2. They shall be grammatically correct.</p> <p>3. They shall be understandable.</p> <p>4. They shall give the Lord Jesus Christ His proper place, the place which the Word gives Him; therefore, no work will ever be personalized.</p> <h2>Copyright Information</h2> <h3>New American Standard Bible&#xAE;</h3> <p>Copyright &#xA9; 1960,1962,1963,1968,1971,1972,1973,1975,1977,1995 by</p> <p>THE LOCKMAN FOUNDATION</p> <p>A Corporation Not for Profit</p> <p>LA HABRA, CA</p> <p>All Rights Reserved</p> <p>http://www.lockman.org</p> <p></p> <p>The "NASB," "NAS," "New American Standard Bible," and "New American Standard" trademarks are registered in the United States Patent and Trademark Office by The Lockman Foundation. Use of these trademarks requires the permission of The Lockman Foundation.</p> <p></p> <h2>PERMISSION TO QUOTE</h2> <p>The text of the New American Standard Bible&#xAE; may be quoted and/or reprinted up to and inclusive of five hundred (500) verses without express written permission of The Lockman Foundation, providing the verses do not amount to a complete book of the Bible nor do the verses quoted account for more than 25% of the total work in which they are quoted.</p> <p></p> <p>Notice of copyright must appear on the title or copyright page of the work as follows:</p> <p></p> <p>"Scripture taken from the NEW AMERICAN STANDARD BIBLE&#xAE;, Copyright &#xA9; 1960,1962,1963,1968,1971,1972,1973,1975,1977,1995 by The Lockman Foundation. Used by permission."</p> <p></p> <p>When quotations from the NASB&#xAE; text are used in not-for-sale media, such as church bulletins, orders of service, posters, transparencies or similar media, the abbreviation (NASB) may be used at the end of the quotation.</p> <p></p> <p>This permission to quote is limited to material which is wholly manufactured in compliance with the provisions of the copyright laws of the United States of America. The Lockman Foundation may terminate this permission at any time.</p> <p></p> <p>Quotations and/or reprints in excess of the above limitations, or other permission requests, must be directed to and approved in writing by The Lockman Foundation, PO Box 2279, La Habra, CA 90632-2279 (714)879-3055.</p> <p>http://www.lockman.org</p>
+		]]>
+		</info>
+		<lang_name>English (US)</lang_name>
+		<lang_name_eng>English</lang_name_eng>
+		<abbreviation>NASB</abbreviation>
+		<updated_at>2013-08-14T09:20:41-05:00</updated_at>
+	</version>
+	
+	<version id="eng-GNBDC">
+		<id>eng-GNBDC</id>
+		<name>Good News Bible (Anglicised)</name>
+		<lang>eng-GB</lang>
+		<lang_code>ISO 639-3</lang_code>
+		<contact_url>http://www.biblesociety.org.uk/</contact_url>
+		<audio>NONE</audio>
+		<copyright>
+		<![CDATA[
+		<p>Good News Bible with Deuterocanonicals/Apocrypha. Scripture taken from the Good News Bible (r) (Today's English Version Second Edition, UK/British Edition). Copyright &#169; 1992 British &amp; Foreign Bible Society. Used by permission.</p> <p>Good News Bible. Scripture taken from the Good News Bible (r) (Today's English Version Second Edition, UK/British Edition). Copyright &#169; 1992 British &amp; Foreign Bible Society. Used by permission.</p>
+		]]>
+		</copyright>
+		<info>
+		<![CDATA[
+		<h1>Good News Bible (Anglicised Version)</h1> <p>This translation, published by the British &amp; Foreign Bible Society, was first published in 1992.</p> <p>If you are interested in obtaining a printed copy, please contact the British &amp; Foreign Bible Society at <a href=" http://shop.biblesociety.org.uk/"> http://shop.biblesociety.org.uk</a>.</p>
+		]]>
+		</info>
+		<lang_name>English (British)</lang_name>
+		<lang_name_eng>English</lang_name_eng>
+		<abbreviation>GNBDC</abbreviation>
+		<updated_at>2015-06-08T14:00:21-05:00</updated_at>
+	</version>
+</versions>

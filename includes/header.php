@@ -51,6 +51,9 @@
                         <a href="index.php">Home</a>
                     </li>
                     <li>
+                        <a href="blog/">Blog</a>
+                    </li>
+                    <li>
                         <a href="404.php">Services</a>
                     </li>
                     <li>

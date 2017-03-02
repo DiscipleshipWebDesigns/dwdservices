@@ -17,7 +17,7 @@
 	            <div class="item active">
 	                <div class="fill" style="background-image:url('images/dwd.2-logoFB.png'); background-repeat: no-repeat; background-position: top;"></div>
 	                <div class="carousel-caption">
-	                    <h2>Discipleship Web Designs & Services</h2>
+	                    <h2 class="banner">Discipleship Web Designs & Services</h2>
 	                </div>
 	            </div>
 
@@ -87,7 +87,8 @@
                     </div>
                     <div class="panel-body">
                         <div class="thumbnail ">
-                            <a href="http://www.discipleshipwebdesigns.com/projects/search"><img src="images/bible-search.png"></a>
+                            <a href="projects/BibleSearch"><img src="images/bible-search.png"></a>
+                            <!-- <a href="http://www.discipleshipwebdesigns.com/projects/search"><img src="images/bible-search.png"></a> -->
 
                         </div>
                     </div>
@@ -101,6 +102,20 @@
                 <h1 class="page-header">
                     Finished Projects
                 </h1>
+            </div>
+            <div class="col-lg-4 ">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4>Graham Cars & Stars</h4>
+                    </div>
+                    <div class="panel-body">
+                        <div class="thumbnail ">
+                            <a href="https://www.grahamcarsandstars.org"><img src="images/grahamcarsandstars.png"></a>
+
+                        </div>
+                    </div>
+                </div>
+
             </div>
            <div class="col-lg-4 ">
                 <div class="panel panel-default">
@@ -130,6 +145,7 @@
                 </div>
 
             </div>
+            <div class="clearfix visible-lg-block"></div>
             <div class="col-lg-4 ">
                 <div class="panel panel-default">
                     <div class="panel-heading">
@@ -144,7 +160,7 @@
                 </div>
 
             </div>
-            <div class="clearfix visible-lg-block"></div>
+            
             <div class="col-lg-4 ">
                 <div class="panel panel-default">
                     <div class="panel-heading">
