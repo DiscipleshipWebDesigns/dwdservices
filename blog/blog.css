@@ -133,7 +133,9 @@ h6, .h6 {
 /* Sidebar modules for boxing content */
 .sidebar-module {
   padding: 10px;
-  margin: 0 10px -20px;
+
+
+  margin: 0 10px -10px;
 }
 .sidebar-module-inset {
   padding: 10px;
